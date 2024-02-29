@@ -1,11 +1,12 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
-
+cd (takes you to a specify directory), ls (list of directories), git clone (clones repos). language powershell
 2. Do you have pets? What kind?
-
+No
 3. If you run across an error, what would your first course of action be?
-
+GSI, Google
 4. Funniest thing that happened to you in high school.
-
+I got sick, i was gonna go home but i ended up in carnival
 5. What is a python script? (Keep it simple)
+file containing executable Python code
 
 
